@@ -65,4 +65,16 @@ Ex14
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/3385778e-cd50-4a7e-9689-8827e26a0d6c)
 
 LAB02
+Execução da versão multiprocessada:
+
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/31323b93-1012-44bb-a964-e4576fe01548)
+
+Tempo de execução serial:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/af4a7c98-e1da-4bbe-bc06-cff473bf9e1c)
+
+Tempo de execução multiprocessado:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/7dd36e7a-7b19-48f7-ba17-7742386a89b3)
+
+
