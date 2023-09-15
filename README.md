@@ -64,3 +64,5 @@ Ex14
 
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/3385778e-cd50-4a7e-9689-8827e26a0d6c)
 
+LAB02
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/31323b93-1012-44bb-a964-e4576fe01548)
