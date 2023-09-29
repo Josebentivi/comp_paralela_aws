@@ -86,3 +86,16 @@ LAB03
 
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/aec10118-9e66-45f6-86ed-f5385ec8d6d7)
 
+#####################################################################################################
+
+LAB04
+
+Tempo de execução versão paralela:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/dae22fc8-d709-42d2-8376-3da90e84fd60)
+
+Tempo de execução versão serial:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/890f6405-0b61-4e2b-96d2-f0c33cb8fee6)
+
+
