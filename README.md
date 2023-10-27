@@ -98,4 +98,11 @@ Tempo de execução versão serial:
 
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/94560949/890f6405-0b61-4e2b-96d2-f0c33cb8fee6)
 
+#####################################################################################################
+
+LAB05
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/fd54cf6b-6c87-4069-bd5f-f49249e86446)
+
+Speedup = 0.000018/0.000685, logo o speedup = 0,026277.
 
