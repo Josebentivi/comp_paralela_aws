@@ -106,3 +106,13 @@ LAB05
 
 Speedup = 0.000018/0.000685, logo o speedup = 0,026277.
 
+#####################################################################################################
+
+PROJETO V1
+
+PARALELO:
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/6b59b178-56c0-49bc-86ce-1d6ad6c494b5)
+
+SERIAL:
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/594166e7-030e-4d6f-ba2f-7ee402bc934e)
+
