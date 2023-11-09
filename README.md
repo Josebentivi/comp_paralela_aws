@@ -117,5 +117,6 @@ PARALELO:
 
 SERIAL:
 
-![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/594166e7-030e-4d6f-ba2f-7ee402bc934e)
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/4ec50561-8eb7-4bd9-a02a-4acda5cb2b85)
+
 
