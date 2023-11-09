@@ -119,4 +119,6 @@ SERIAL:
 
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/4ec50561-8eb7-4bd9-a02a-4acda5cb2b85)
 
+Speedup = 0.000005/0.000904, logo o speedup = 0,00553097
+
 
