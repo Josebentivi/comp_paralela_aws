@@ -129,7 +129,7 @@ PROJETO FINAL
 
 PARALELO:
 
-![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/84d1118d-cefa-4242-8d91-6d39329605c6)
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/c2113c40-dd37-465e-8034-9c6d22ed7945)
 
 SERIAL:
 
