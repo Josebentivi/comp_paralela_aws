@@ -121,7 +121,7 @@ SERIAL:
 
 Chegamos em uma aproximação correta de 15 casas decimais.
 
-Speedup = 0.000005/0.000904, logo o speedup = 0,00553097
+Speedup = 0.000005/0.000904, logo o speedup = 0.00553097
 
 #####################################################################################################
 
@@ -137,4 +137,4 @@ SERIAL:
 
 Conseguimos chegar em uma aproximação correta de 18 casas decimais, 3 casas a mais do que na primeira parte do projeto.
 
-Speedup = 
+Speedup = 0.000005/0.001098, logo o speedup = 0.004553743
