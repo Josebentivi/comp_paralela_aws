@@ -119,6 +119,22 @@ SERIAL:
 
 ![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/4ec50561-8eb7-4bd9-a02a-4acda5cb2b85)
 
+Chegamos em uma aproximação correta de 15 casas decimais.
+
 Speedup = 0.000005/0.000904, logo o speedup = 0,00553097
 
+#####################################################################################################
 
+PROJETO FINAL
+
+PARALELO:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/84d1118d-cefa-4242-8d91-6d39329605c6)
+
+SERIAL:
+
+![image](https://github.com/Josebentivi/comp_paralela_aws/assets/142992290/4ec50561-8eb7-4bd9-a02a-4acda5cb2b85)
+
+Conseguimos chegar em uma aproximação correta de 18 casas decimais, 3 casas a mais do que na primeira parte do projeto.
+
+Speedup = 
