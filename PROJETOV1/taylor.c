@@ -21,7 +21,7 @@ double calculate_e(int limit) {
 }
 
 int main() {
-    int limit =1000; // Aumente este valor para uma aproximação mais precisa
+    int limit = 300; // Aumente este valor para uma aproximação mais precisa
     double start_time = omp_get_wtime();
     long double e = calculate_e(limit);
     double end_time = omp_get_wtime();
